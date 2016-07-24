@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="104"
+   height="103"
+   viewBox="0 0 104 103"
+   version="1.1"
+   id="svg2"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="logo3-dark-theme.svg">
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>logo</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="731"
+     id="namedview18"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.2900336"
+     inkscape:cx="-65.191611"
+     inkscape:cy="129.88936"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Page-1" />
+  <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title4">logo</title>
+  <desc
+     id="desc6">Created with Sketch.</desc>
+  <defs
+     id="defs8" />
+  <g
+     id="Page-1"
+     style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
+     transform="translate(-788.60419,1.3267396e-8)">
+    <g
+       id="logo"
+       transform="translate(-129.39581,-936)">
+      <g
+         id="logo-w-bg-on-dark"
+         transform="translate(0,849)">
+        <g
+           id="g13"
+           transform="translate(130,87)">
+          <path
+             d="m 791.93594,88.413524 c 4.79539,5.078304 31.13483,29.418006 72.47772,1.169879 C 894.3088,66.302031 893.56194,15.826969 890.69003,0.58443941 889.68955,2.8027376 854.96543,78.843786 791.93594,88.413524 Z M 890.68601,0.57153794 C 890.31983,0.42027103 851.85834,-4.8234444 813.83602,19.66587 790.22542,34.872917 787.10439,57.130084 788.18165,71.960977 843.45475,65.77562 889.43219,2.3153692 890.68601,0.57153794 Z"
+             id="Path-1-Copy-9"
+             inkscape:connector-curvature="0"
+             style="fill:#97c554" />
+          <path
+             d="M 890.68601,0.57153794 C 890.31983,0.42027103 851.85834,-4.8234444 813.83602,19.66587 790.22542,34.872917 787.10439,57.130084 788.18165,71.960977 843.45475,65.77562 889.43219,2.3153692 890.68601,0.57153794 Z"
+             id="Path-1-Copy-8"
+             inkscape:connector-curvature="0"
+             style="fill:#709b30" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
