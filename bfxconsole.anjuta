@@ -1,11 +1,17 @@
 <?xml version="1.0"?>
 <anjuta>
+<<<<<<< HEAD
+    <plugin name="GBF Project Manager"
+=======
 	<plugin name="GBF Project Manager"
+>>>>>>> e238d312a17739cf2311261c8becf796418bdb2d
             url="http://anjuta.org/plugins/"
             mandatory="yes">
 		<require group="Anjuta Plugin"
                  attribute="Interfaces"
                  value="IAnjutaProjectManager"/>
+<<<<<<< HEAD
+=======
 	</plugin>
 	<plugin name="AutoTools Project Backend"
             url="http://anjuta.org/plugins/"
@@ -13,6 +19,7 @@
 		<require group="Anjuta Plugin"
                  attribute="Interfaces"
                  value="IAnjutaProjectBackend"/>
+>>>>>>> e238d312a17739cf2311261c8becf796418bdb2d
 		<require group="Project"
                  attribute="Supported-Project-Types"
                  value="automake"/>
@@ -20,7 +27,11 @@
 	<plugin name="Symbol Browser"
             url="http://anjuta.org/plugins/"
             mandatory="yes">
+<<<<<<< HEAD
+                <require group="Anjuta Plugin"
+=======
 		<require group="Anjuta Plugin"
+>>>>>>> e238d312a17739cf2311261c8becf796418bdb2d
                  attribute="Interfaces"
                  value="IAnjutaSymbolManager"/>
 	</plugin>
@@ -41,6 +52,8 @@
                  attribute="Interfaces"
                  value="IAnjutaTodo"/>
 	</plugin>
+<<<<<<< HEAD
+=======
 	<plugin name="Debug Manager"
             url="http://anjuta.org/plugins/"
             mandatory="no">
@@ -48,4 +61,5 @@
                  attribute="Interfaces"
                  value="IAnjutaDebugManager"/>
 	</plugin>
+>>>>>>> e238d312a17739cf2311261c8becf796418bdb2d
 </anjuta>
