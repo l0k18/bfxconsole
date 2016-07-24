@@ -1,4 +1,23 @@
 #!/usr/bin/env python
+# bfxconsole.py
+#
+# Licence Notice
+#
+# Licence means permission from a privileged party to do something that would
+# otherwise be a crime, upon their property. This document sits upon your
+# property and you granted licence to its presence there by placing it there.
+#
+# Copyright is nothing more than a monopoly grant privilege, and I don't
+# acknowledge any monopoly other than of a natural person upon their property.
+#
+# Thus since this is now your property, if it messes your shit up, that's not
+# my problem, I am just a simple program writer, and I didn't ask you to
+# place this file upon your computer, or any derivative of this file such as
+# a compiled version that you can run on your computer.
+#
+# Since it is currently residing on your property, you are free to do whatever
+# you want with this file, with no restrictions.
+
 import gi
 gi.require_version("Gtk", "3.0")
 from gi.repository import Gtk, GdkPixbuf, Gdk, Gio
